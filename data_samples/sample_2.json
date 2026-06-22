@@ -1,0 +1,53 @@
+{
+  "document_info": {
+    "document_id": "RG-KA-2025-002",
+    "execution_date": "2025-09-19",
+    "execution_place": "Bengaluru, Karnataka",
+    "document_type": "Residential Rental Agreement"
+  },
+  "parties": [
+    {
+      "name": "Mr. Vijay Krishnan",
+      "role": "Landlord",
+      "address": "#45, 12th Main Road, Malleswaram, Bengaluru - 560003, Karnataka"
+    },
+    {
+      "name": "Ms. Anjali Mehta",
+      "role": "Tenant",
+      "address": "#10, HSR Layout, Sector 4, Bengaluru - 560102, Karnataka"
+    }
+  ],
+  "premises": {
+    "address": "Flat No. A-1102, Sobha Dream Acres, Varthur, Bengaluru - 560087, Karnataka",
+    "type": "Residential Flat"
+  },
+  "term": {
+    "duration_months": 11,
+    "start_date": "2025-10-01",
+    "end_date": "2026-08-31"
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 38000,
+      "currency": "INR",
+      "in_words": "Rupees Thirty-Eight Thousand Only"
+    },
+    "security_deposit": {
+      "amount": 200000,
+      "currency": "INR",
+      "in_words": "Rupees Two Lakhs Only",
+      "interest_free": true
+    },
+    "maintenance": {
+      "amount": 4200,
+      "currency": "INR",
+      "in_words": "Rupees Four Thousand Two Hundred Only",
+      "responsibility": "Tenant"
+    }
+  },
+  "clauses": {
+    "lock_in_period_months": 6,
+    "notice_period_months": 2
+  },
+  "jurisdiction": "Bengaluru, Karnataka"
+}

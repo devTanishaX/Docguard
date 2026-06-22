@@ -1,0 +1,52 @@
+{
+  "document_info": {
+    "document_id": "RG-MH-2025-010",
+    "execution_date": "2025-09-23",
+    "execution_place": "Pune, Maharashtra",
+    "document_type": "Residential Rent Agreement"
+  },
+  "parties": [
+    {
+      "name": "Mr. Sameer Joshi",
+      "role": "Landlord",
+      "address": "A-501, Blue Ridge Towers, Hinjewadi, Pune - 411057"
+    },
+    {
+      "name": "Ms. Aditi Sharma",
+      "role": "Tenant",
+      "address": "D-Wing, Flat 10, Kothrud, Pune - 411038"
+    }
+  ],
+  "premises": {
+    "address": "Flat No. 1204, Tower B, Amanora Park Town, Hadapsar, Pune - 411028",
+    "type": "Residential Flat"
+  },
+  "term": {
+    "duration_months": 11,
+    "start_date": "2025-10-01"
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 30000,
+      "currency": "INR",
+      "in_words": "Rupees Thirty Thousand Only"
+    },
+    "security_deposit": {
+      "amount": 75000,
+      "currency": "INR",
+      "in_words": "Rupees Seventy-Five Thousand Only",
+      "interest_free": true
+    },
+    "termination_penalty": {
+      "condition": "Termination by Tenant within lock-in period",
+      "amount_description": "equivalent to two (2) months' rent",
+      "calculated_amount": 60000
+    }
+  },
+  "clauses": {
+    "lock_in_period_months": 6,
+    "notice_period_months": 1
+  },
+  "jurisdiction": "Pune"
+}
+

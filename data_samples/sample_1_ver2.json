@@ -1,0 +1,69 @@
+{
+  "document_info": {
+    "document_id": "RG-KA-2025-002",
+    "execution_date": "2025-09-19",
+    "execution_place": "Bengaluru, Karnataka",
+    "document_type": "Residential Rental Agreement"
+  },
+  "parties": [
+    {
+      "name": "Mr. Raunak Kumar",
+      "role": "Lessor",
+      "address": "No. 24, 2nd Cross, Sarjapur, Bengaluru - 562125, Karnataka"
+    },
+    {
+      "name": "Ms. Ayushi Sharma",
+      "role": "Lessee",
+      "address": "Flat No. 16, Indiranagar, Bengaluru - 560038, Karnataka"
+    }
+  ],
+  "premises": {
+    "address": "Flat No. 302, Sai Residency Apartments, 5th Main Road, Indiranagar, Bengaluru - 560038, Karnataka",
+    "type": "Residential premises"
+  },
+  "term": {
+    "duration_months": 11,
+    "start_date": "2025-10-01",
+    "end_date": "2026-08-30"
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 25000,
+      "currency": "INR",
+      "in_words": "Rupees Twenty Five Thousand Only"
+    },
+    "security_deposit": {
+      "amount": 100000,
+      "currency": "INR",
+      "in_words": "Rupees One Lakh Only",
+      "interest_free": true
+    },
+    "maintenance": {
+      "amount": null,
+      "currency": "INR",
+      "responsibility": "Lessee",
+      "note": "Lessee responsible for society maintenance charges."
+    }
+  },
+  "clauses": {
+    "notice_period_months": 1,
+    "use_restriction": "Residential purposes only",
+    "subletting_prohibited": true
+  },
+  "inventory": [
+    "Two-burner gas stove",
+    "One refrigerator",
+    "One washing machine",
+    "Built-in wardrobes in both bedrooms",
+    "Curtains in living room and bedrooms"
+  ],
+  "witnesses": [
+    {
+      "name": "Anil Verma"
+    },
+    {
+      "name": "Kavita Nair"
+    }
+  ],
+  "jurisdiction": "Bengaluru, Karnataka"
+}

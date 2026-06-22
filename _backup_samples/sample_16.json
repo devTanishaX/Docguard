@@ -1,0 +1,30 @@
+{
+  "parties": [
+    {
+      "name": "Mr. Sameer Desai",
+      "role": "LESSOR"
+    },
+    {
+      "name": "Mrs. Anjali Rao",
+      "role": "LESSEE"
+    }
+  ],
+  "premises": {
+    "address": "Apartment 1502, Skyview Residency, Viman Nagar, Pune - 411014"
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 42000,
+      "currency": "INR"
+    },
+    "security_deposit": {
+      "amount": 150000,
+      "currency": "INR"
+    }
+  },
+  "term": {
+    "start_date": "November 1, 2025",
+    "end_date": "August 31, 2027",
+    "duration": "twenty-two months"
+  }
+}

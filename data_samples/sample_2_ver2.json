@@ -1,0 +1,53 @@
+{
+  "document_info": {
+    "document_id": "RG-KA-2025-003",
+    "execution_date": "2025-10-15",
+    "execution_place": "Bengaluru, Karnataka",
+    "document_type": "Residential Rental Agreement"
+  },
+  "parties": [
+    {
+      "name": "Mr. Rohan Sharma",
+      "role": "Landlord",
+      "address": "#212, 3rd Cross, Indiranagar, Bengaluru - 560038, Karnataka"
+    },
+    {
+      "name": "Ms. Priya Iyer",
+      "role": "Tenant",
+      "address": "#5B, Prestige Royale, Whitefield, Bengaluru - 560066, Karnataka"
+    }
+  ],
+  "premises": {
+    "address": "Flat No. C-504, Prestige Lakeside Habitat, Varthur Main Road, Bengaluru - 560087, Karnataka",
+    "type": "Residential Flat"
+  },
+  "term": {
+    "duration_months": 11,
+    "start_date": "2025-11-01",
+    "end_date": "2026-09-30"
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 42000,
+      "currency": "INR",
+      "in_words": "Rupees Forty-Two Thousand Only"
+    },
+    "security_deposit": {
+      "amount": 250000,
+      "currency": "INR",
+      "in_words": "Rupees Two Lakhs Fifty Thousand Only",
+      "interest_free": true
+    },
+    "maintenance": {
+      "amount": 4500,
+      "currency": "INR",
+      "in_words": "Rupees Four Thousand Five Hundred Only",
+      "responsibility": "Tenant"
+    }
+  },
+  "clauses": {
+    "lock_in_period_months": 3,
+    "notice_period_months": 1
+  },
+  "jurisdiction": "Bengaluru, Karnataka"
+}

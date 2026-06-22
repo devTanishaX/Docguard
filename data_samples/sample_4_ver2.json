@@ -1,0 +1,51 @@
+{
+  "document_info": {
+    "document_id": "RG-KA-2025-005",
+    "execution_date": "2025-12-05",
+    "execution_place": "Bengaluru, Karnataka",
+    "document_type": "Residential Rental Agreement"
+  },
+  "parties": [
+    {
+      "name": "Mr. Vikram Oberoi",
+      "role": "Lessor",
+      "address": "#9, Sobha Malachite, Jakkur, Bengaluru - 560064, Karnataka"
+    },
+    {
+      "name": "Ms. Aditi Rao",
+      "role": "Lessee",
+      "address": "#405, Prestige Ferns Residency, HSR Layout, Bengaluru - 560102, Karnataka"
+    }
+  ],
+  "premises": {
+    "address": "#T-1101, Salarpuria Sattva Greenage, Hosur Road, Bengaluru - 560068, Karnataka",
+    "type": "Residential Premises"
+  },
+  "term": {
+    "duration_months": 11,
+    "start_date": "2026-01-01",
+    "renewal_rent_escalation_percentage": 10
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 48000,
+      "currency": "INR",
+      "in_words": "Rupees Forty-Eight Thousand Only"
+    },
+    "security_deposit": {
+      "amount": 300000,
+      "currency": "INR",
+      "in_words": "Rupees Three Lakhs Only",
+      "interest_free": true
+    },
+    "maintenance": {
+      "amount": 5200,
+      "currency": "INR",
+      "responsibility": "Lessee"
+    }
+  },
+  "clauses": {
+    "notice_period_months": 1
+  },
+  "jurisdiction": "Bengaluru, Karnataka"
+}

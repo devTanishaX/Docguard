@@ -1,0 +1,55 @@
+{
+  "document_info": {
+    "document_id": "RG-MH-2026-006",
+    "execution_date": "2026-01-10",
+    "execution_place": "Pune",
+    "document_type": "Residential Rental Agreement"
+  },
+  "parties": [
+    {
+      "name": "Mr. Alok Gupta",
+      "role": "Lessor",
+      "address": "#501, Blue Ridge, Hinjewadi, Pune - 411057."
+    },
+    {
+      "name": "Ms. Sneha Reddy",
+      "role": "Lessee",
+      "address": "A-12, Sterling Apartments, Koregaon Park, Pune - 411001."
+    }
+  ],
+  "premises": {
+    "address": "#7B, Marvel Zaphyr, Hadapsar, Pune - 411028.",
+    "type": "1 BHK Flat"
+  },
+  "term": {
+    "duration_months": 11,
+    "start_date": "2026-02-01"
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 18000,
+      "currency": "INR",
+      "in_words": "Rupees Eighteen Thousand Only"
+    },
+    "security_deposit": {
+      "amount": 50000,
+      "currency": "INR",
+      "in_words": "Rupees Fifty Thousand Only",
+      "interest_free": true
+    },
+    "other_charges": [
+      {
+        "type": "Painting and Cleaning Charges",
+        "amount_note": "around 4000",
+        "currency": "INR",
+        "responsibility": "Lessee",
+        "payment_condition": "At the time of vacating"
+      }
+    ]
+  },
+  "clauses": {
+    "notice_period_months": 1,
+    "rent_escalation_note": "Rent shall be enhanced by 10% with mutual consent after 11 months."
+  },
+  "jurisdiction": "Pune"
+}

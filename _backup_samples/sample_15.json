@@ -1,0 +1,34 @@
+{
+  "parties": [
+    {
+      "name": "Mr. Arjun Mehra",
+      "role": "LANDLORD"
+    },
+    {
+      "name": "Ms. Priya Singh",
+      "role": "TENANT"
+    }
+  ],
+  "premises": {
+    "address": "701, Harmony Heights, Pali Hill, Bandra West, Mumbai - 400050, Maharashtra"
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 65000,
+      "currency": "INR"
+    },
+    "security_deposit": {
+      "amount": 200000,
+      "currency": "INR"
+    },
+    "stamp_duty": {
+        "amount": 1200,
+        "currency": "INR"
+    }
+  },
+  "term": {
+    "start_date": "October 15, 2025",
+    "end_date": "September 14, 2026",
+    "duration": null
+  }
+}

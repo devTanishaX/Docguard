@@ -1,0 +1,55 @@
+{
+  "document_info": {
+    "document_id": "RG-KA-2025-003",
+    "execution_date": "2025-09-20",
+    "execution_place": "Bengaluru, Karnataka",
+    "document_type": "Residential Rental Agreement"
+  },
+  "parties": [
+    {
+      "name": "Mrs. Meera Deshpande",
+      "role": "Landlord",
+      "address": "#789, 10th Main, 1st Block, Jayanagar, Bengaluru - 560011, Karnataka"
+    },
+    {
+      "name": "Mr. Rohan Bhatia",
+      "role": "Tenant",
+      "address": "#33, Koramangala 5th Block, Bengaluru - 560095, Karnataka"
+    }
+  ],
+  "premises": {
+    "address": "#D-504, Brigade Metropolis, Whitefield Main Road, Mahadevapura, Bengaluru - 560048, Karnataka",
+    "type": "Residential Flat"
+  },
+  "term": {
+    "duration_months": 11,
+    "start_date": "2025-10-05",
+    "end_date": "2026-09-04",
+    "rent_escalation_percentage": 7
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 28000,
+      "currency": "INR",
+      "in_words": "Rupees Twenty-Eight Thousand Only"
+    },
+    "security_deposit": {
+      "amount": 150000,
+      "currency": "INR",
+      "in_words": "Rupees One Lakh Fifty Thousand Only",
+      "interest_free": true
+    },
+    "maintenance": {
+      "amount": 3000,
+      "currency": "INR",
+      "in_words": "Rupees Three Thousand Only",
+      "responsibility": "Tenant"
+    }
+  },
+  "clauses": {
+    "lock_in_period_months": 5,
+    "notice_period_tenant_months": 1,
+    "notice_period_landlord_months": 2
+  },
+  "jurisdiction": "Bengaluru, Karnataka"
+}

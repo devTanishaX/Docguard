@@ -1,0 +1,34 @@
+{
+  "parties": [
+    {
+      "name": "Mrs. Lakshmi Venkatesan",
+      "role": "OWNER"
+    },
+    {
+      "name": "Mr. Arjun Nair",
+      "role": "TENANT"
+    }
+  ],
+  "premises": {
+    "address": "3B, Marina Apartments, Besant Nagar, Chennai - 600090, Tamil Nadu"
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 28500,
+      "currency": "INR"
+    },
+    "security_deposit": {
+      "amount": 85500,
+      "currency": "INR"
+    },
+    "stamp_duty": {
+      "amount": 300,
+      "currency": "INR"
+    }
+  },
+  "term": {
+    "start_date": "05-10-2025",
+    "end_date": null,
+    "duration": "eleven months"
+  }
+}

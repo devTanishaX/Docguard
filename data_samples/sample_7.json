@@ -1,0 +1,38 @@
+{
+  "document_info": {
+    "document_id": "RG-UP-2024-007",
+    "execution_date": "28th day of MARCH 2024",
+    "execution_place": "NOIDA",
+    "document_type": "Residential Rent Agreement"
+  },
+  "parties": [
+    {
+      "name": "SARIKA GULATI GUPTA",
+      "role": "Lessor",
+      "address": "FLAT NO-404, TOWER-A7, JAYPEE KLASSIC, WISHTOWN, SECTOR-134, NOIDA, G.B NAGAR, U.P 201304"
+    },
+    {
+      "name": "AMAN KUMAR",
+      "role": "Lessee",
+      "address": "647-B/F-039, JANKIPURAM GARDEN, MADIYAON, NEAR SAHARA STATES GATE NO-2, LUCKNOW, JANKIPURAM, U.P 226021"
+    },
+    {
+      "name": "GOURAV KUMAR GUPTA",
+      "role": "Lessee",
+      "address": "PANCHAYAT-KANDRA THANA-KANDRA, KANDRA, SERAIKELA, KHARSAWAN, JHARKHAND 832402"
+    }
+  ],
+  "premises": {
+    "address": "FLAT NO-1207, TOWER-B1, JAYPEE KLASSIC, SECTOR-134, NOIDA",
+    "type": "Residential Flat"
+  },
+  "term": {
+    "duration_months": 11
+  },
+  "financials": {},
+  "clauses": {
+    "lock_in_period_months": 6
+  },
+  "jurisdiction": "Noida"
+}
+

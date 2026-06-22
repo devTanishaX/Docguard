@@ -1,0 +1,55 @@
+{
+  "document_info": {
+    "document_id": "RG-KA-2025-004",
+    "execution_date": "2025-11-10",
+    "execution_place": "Bengaluru, Karnataka",
+    "document_type": "Residential Rental Agreement"
+  },
+  "parties": [
+    {
+      "name": "Mr. Arjun Reddy",
+      "role": "Landlord",
+      "address": "#15, Prestige Golfshire, Nandi Hills, Bengaluru - 562110, Karnataka"
+    },
+    {
+      "name": "Ms. Kavya Nair",
+      "role": "Tenant",
+      "address": "#2B, Adarsh Palm Meadows, Ramagondanahalli, Bengaluru - 560066, Karnataka"
+    }
+  ],
+  "premises": {
+    "address": "#801, Tower 3, Phoenix One, Rajajinagar, Bengaluru - 560010, Karnataka",
+    "type": "Residential Flat"
+  },
+  "term": {
+    "duration_months": 11,
+    "start_date": "2025-12-01",
+    "end_date": "2026-10-31",
+    "rent_escalation_percentage": 5
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 65000,
+      "currency": "INR",
+      "in_words": "Rupees Sixty-Five Thousand Only"
+    },
+    "security_deposit": {
+      "amount": 400000,
+      "currency": "INR",
+      "in_words": "Rupees Four Lakhs Only",
+      "interest_free": true
+    },
+    "maintenance": {
+      "amount": 7500,
+      "currency": "INR",
+      "in_words": "Rupees Seven Thousand Five Hundred Only",
+      "responsibility": "Tenant"
+    }
+  },
+  "clauses": {
+    "lock_in_period_months": 6,
+    "notice_period_tenant_months": 2,
+    "notice_period_landlord_months": 2
+  },
+  "jurisdiction": "Bengaluru, Karnataka"
+}

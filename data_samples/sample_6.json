@@ -1,0 +1,58 @@
+{
+  "document_info": {
+    "document_id": "RG-KA-2024-006",
+    "execution_date": "2024-02-15",
+    "execution_place": "Bengaluru",
+    "document_type": "Residential Rental Agreement"
+  },
+  "parties": [
+    {
+      "name": "Mr. Sunil Sharma",
+      "role": "Landlord",
+      "address": "#404, Orchid Elegance, 5th Cross, Malleswaram, Bengaluru - 560003"
+    },
+    {
+      "name": "Mr. Alok Verma",
+      "role": "Tenant",
+      "address": "C-Block, Shanti Niketan, New Delhi - 110021"
+    },
+    {
+      "name": "Mr. Rohan Gupta",
+      "role": "Tenant",
+      "address": "A-1, Vasant Kunj, New Delhi - 110070"
+    }
+  ],
+  "premises": {
+    "address": "Flat No. A-201, Sterling Apartments, 1st Main Road, Indiranagar, Bengaluru - 560038",
+    "type": "Residential Flat"
+  },
+  "term": {
+    "duration_months": 11,
+    "start_date": "2024-03-01"
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 50000,
+      "currency": "INR",
+      "in_words": "Rupees Fifty Thousand Only"
+    },
+    "security_deposit": {
+      "amount": 250000,
+      "currency": "INR",
+      "in_words": "Rupees Two Lakhs Fifty Thousand Only",
+      "interest_free": true
+    },
+    "maintenance": {
+      "amount": 4500,
+      "currency": "INR",
+      "in_words": "Rupees Four Thousand Five Hundred Only",
+      "responsibility": "Tenants"
+    }
+  },
+  "clauses": {
+    "lock_in_period_months": 6,
+    "notice_period_months": 1
+  },
+  "jurisdiction": "Bengaluru"
+}
+

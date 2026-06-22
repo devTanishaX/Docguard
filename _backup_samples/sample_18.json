@@ -1,0 +1,30 @@
+{
+  "parties": [
+    {
+      "name": "Mrs. Sharmila Bose",
+      "role": "FIRST PARTY"
+    },
+    {
+      "name": "Mr. Alok Mukherjee",
+      "role": "SECOND PARTY"
+    }
+  ],
+  "premises": {
+    "address": "2B, Rabindra Sarani, Shyambazar, Kolkata - 700004"
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 20000,
+      "currency": "INR"
+    },
+    "security_deposit": {
+      "amount": 50000,
+      "currency": "INR"
+    }
+  },
+  "term": {
+    "start_date": "1st of November, 2025",
+    "end_date": null,
+    "duration": "eleven months"
+  }
+}

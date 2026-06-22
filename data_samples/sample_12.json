@@ -1,0 +1,38 @@
+{
+  "document_info": {
+    "document_id": "LL-MH-2025-012",
+    "execution_date": "2025-09-24",
+    "execution_place": "Pune, Maharashtra",
+    "document_type": "Leave and License Agreement"
+  },
+  "parties": [
+    {
+      "name": "Mr. Rohan Kulkarni",
+      "role": "Licensor",
+      "address": "12, Prabhat Road, Pune"
+    },
+    {
+      "name": "M/s. Global Tech Solutions",
+      "role": "Licensee",
+      "address": "Cyber City, Magarpatta, Pune"
+    }
+  ],
+  "premises": {
+    "address": "Office No. 301, 3rd Floor, The Capital Building, Baner, Pune - 411045",
+    "type": "Fully Furnished Office"
+  },
+  "term": {
+    "duration_months": 22,
+    "start_date": "1st October 2025"
+  },
+  "financials": {
+    "initial_license_fee": 80000,
+    "escalated_license_fee": 88000,
+    "security_deposit": 400000,
+    "society_security_deposit": 25000
+  },
+  "clauses": {
+    "lock_in_period_months": 11,
+    "notice_period_months": 3
+  }
+}

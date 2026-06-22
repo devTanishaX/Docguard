@@ -1,0 +1,34 @@
+{
+  "parties": [
+    {
+      "name": "Mr. Rohan Kulkarni",
+      "role": "LICENSOR"
+    },
+    {
+      "name": "Ms. Sneha Iyer",
+      "role": "LICENSEE"
+    }
+  ],
+  "premises": {
+    "address": "Flat No. C-505, Blue Waters Society, Kalyani Nagar, Pune - 411006, Maharashtra"
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 35000,
+      "currency": "INR"
+    },
+    "security_deposit": {
+      "amount": 100000,
+      "currency": "INR"
+    },
+    "stamp_duty": {
+      "amount": 1000,
+      "currency": "INR"
+    }
+  },
+  "term": {
+    "start_date": "1st October 2025",
+    "end_date": null,
+    "duration": "22 (twenty-two) months"
+  }
+}

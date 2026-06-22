@@ -1,0 +1,55 @@
+{
+  "document_info": {
+    "document_id": "RG-HR-2025-008",
+    "execution_date": "2025-08-13",
+    "execution_place": "Gurgaon",
+    "document_type": "Residential Rent Agreement",
+    "stamp_paper": {
+      "state": "Haryana",
+      "certificate_no": "GOM2025H3760",
+      "date": "2025-08-13",
+      "stamp_duty_paid": 210
+    }
+  },
+  "parties": [
+    {
+      "name": "Mr. Vikram Singh",
+      "role": "Lessor",
+      "address": "H.No. 1234, Ground Floor, Sector-23, Gurugram, Haryana-122001"
+    },
+    {
+      "name": "Mr. Sameer Rao",
+      "role": "Lessee",
+      "address": "H.No. 987, Phase-1, Urban Estate, Patiala, Punjab-147002"
+    }
+  ],
+  "premises": {
+    "address": "Flat No. 101, First Floor, Tower-C, Pyramid Urban Homes, Sector-70A, Gurugram, Haryana-122004",
+    "type": "Residential Property"
+  },
+  "term": {
+    "duration_months": 11,
+    "start_date": "2025-08-13"
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 18000,
+      "currency": "INR",
+      "in_words": "Rupees Eighteen Thousand Only"
+    },
+    "security_deposit": {
+      "amount": 18000,
+      "currency": "INR",
+      "in_words": "Rupees Eighteen Thousand Only",
+      "interest_free": true
+    },
+    "maintenance": {
+      "responsibility": "Lessee"
+    }
+  },
+  "clauses": {
+    "lock_in_period_months": 6,
+    "notice_period_months": 1
+  },
+  "jurisdiction": "Gurgaon"
+}

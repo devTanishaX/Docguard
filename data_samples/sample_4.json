@@ -1,0 +1,51 @@
+{
+  "document_info": {
+    "document_id": "RG-KA-2025-004",
+    "execution_date": "2025-09-21",
+    "execution_place": "Bengaluru, Karnataka",
+    "document_type": "Residential Rental Agreement"
+  },
+  "parties": [
+    {
+      "name": "Mrs. Shanthi Iyer",
+      "role": "Lessor",
+      "address": "#14, 3rd Block, Jayanagar, Bengaluru - 560011, Karnataka"
+    },
+    {
+      "name": "Mr. Sameer Ali",
+      "role": "Lessee",
+      "address": "#7, 1st Stage, BTM Layout, Bengaluru - 560068, Karnataka"
+    }
+  ],
+  "premises": {
+    "address": "#B-201, Rohan Akriti Apartments, Kanakapura Road, Bengaluru - 560062, Karnataka",
+    "type": "Residential Premises"
+  },
+  "term": {
+    "duration_months": 11,
+    "start_date": "2025-10-01",
+    "renewal_rent_escalation_percentage": 8
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 32000,
+      "currency": "INR",
+      "in_words": "Rupees Thirty-Two Thousand Only"
+    },
+    "security_deposit": {
+      "amount": 160000,
+      "currency": "INR",
+      "in_words": "Rupees One Lakh Sixty Thousand only",
+      "interest_free": true
+    },
+    "maintenance": {
+      "amount": 3500,
+      "currency": "INR",
+      "responsibility": "Lessee"
+    }
+  },
+  "clauses": {
+    "notice_period_months": 2
+  },
+  "jurisdiction": "Bengaluru, Karnataka"
+}

@@ -1,0 +1,46 @@
+{
+  "document_info": {
+    "document_id": "RG-KA-2025-001",
+    "execution_date": "2025-09-18",
+    "execution_place": "Bengaluru, Karnataka",
+    "document_type": "Residential Rental Agreement"
+  },
+  "parties": [
+    {
+      "name": "Mr. Ramesh Kumar",
+      "role": "Lessor",
+      "address": "No. 24, 2nd Cross, Jayanagar, Bengaluru - 560041, Karnataka"
+    },
+    {
+      "name": "Ms. Tanisha Sharma",
+      "role": "Lessee",
+      "address": "Flat No. 15, Indiranagar, Bengaluru - 560038, Karnataka"
+    }
+  ],
+  "premises": {
+    "address": "Flat No. 302, Sai Residency Apartments, 5th Main Road, Indiranagar, Bengaluru - 560038, Karnataka",
+    "type": "Residential Flat"
+  },
+  "term": {
+    "duration_months": 11,
+    "start_date": "1st October 2025",
+    "end_date": "30th August 2026"
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 25000,
+      "currency": "INR",
+      "in_words": "Rupees Twenty Five Thousand Only"
+    },
+    "security_deposit": {
+      "amount": 100000,
+      "currency": "INR",
+      "in_words": "Rupees One Lakh Only",
+      "interest_free": true
+    }
+  },
+  "clauses": {
+    "notice_period_months": 1
+  },
+  "jurisdiction": "Bengaluru, Karnataka"
+}

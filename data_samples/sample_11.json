@@ -1,0 +1,42 @@
+{
+  "document_info": {
+    "document_id": "RG-KA-2025-011",
+    "execution_date": "2025-09-23",
+    "execution_place": "Bengaluru, Karnataka",
+    "document_type": "Agreement to Lease"
+  },
+  "parties": [
+    {
+      "name": "Mr. and Mrs. Arjun Mehta",
+      "role": "Lessor",
+      "address": "No. 22, 5th Main, Defence Colony, Indiranagar, Bengaluru"
+    },
+    {
+      "name": "Ms. Sneha Reddy",
+      "role": "Lessee",
+      "address": "#10, BTM Layout, Bengaluru"
+    }
+  ],
+  "premises": {
+    "address": "#55, Greenview Residency, 1st Cross, HSR Layout Sector 2, Bengaluru - 560102",
+    "type": "Fully Furnished 2BHK Apartment"
+  },
+  "term": {
+    "duration_months": 11,
+    "start_date": "October 1st, 2025"
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 48000,
+      "currency": "INR"
+    },
+    "security_deposit": {
+      "amount": 200000,
+      "currency": "INR"
+    }
+  },
+  "clauses": {
+    "lock_in_period_months": 6,
+    "notice_period_months": 2
+  }
+}

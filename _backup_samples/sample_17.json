@@ -1,0 +1,34 @@
+{
+  "parties": [
+    {
+      "name": "Mr. Rajeev Gupta",
+      "role": "PROPERTY OWNER"
+    },
+    {
+      "name": "Ms. Kavita Sharma",
+      "role": "OCCUPANT"
+    },
+    {
+      "name": "Mr. Suresh Sharma",
+      "role": "GUARANTOR"
+    }
+  ],
+  "premises": {
+    "address": "15A, Hudson Lane, Kingsway Camp, Delhi - 110009"
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 18000,
+      "currency": "INR"
+    },
+    "security_deposit": {
+      "amount": 36000,
+      "currency": "INR"
+    }
+  },
+  "term": {
+    "start_date": "01-10-2025",
+    "end_date": "30-06-2026",
+    "duration": null
+  }
+}

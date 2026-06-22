@@ -1,0 +1,55 @@
+{
+  "document_info": {
+    "document_id": "RG-KA-2020-005",
+    "execution_date": "2020-02-15",
+    "execution_place": "Bangalore",
+    "document_type": "Residential Rental Agreement"
+  },
+  "parties": [
+    {
+      "name": "Mr Dhiraj kumar",
+      "role": "Lessor",
+      "address": "Flat B-005, Prakruthi Enclave, 2nd Cross, Shirdi Sai Layout, Seegehalli, KR Puram, Bangalore 560049."
+    },
+    {
+      "name": "Mr. Prashant kumar",
+      "role": "Lessee",
+      "address": "Maina Sadan, Nehru Nagar, Patliputra, Boring Road, Patna - 800001."
+    }
+  ],
+  "premises": {
+    "address": "Flat B-005, Prakruthi Enclave, 2nd Cross, Shirdi Sai Layout, Seegehalli, KR Puram, Bangalore 560049.",
+    "type": "One room in a residential flat"
+  },
+  "term": {
+    "duration_months": 24,
+    "start_date": "2018-03-01"
+  },
+  "financials": {
+    "monthly_rent": {
+      "amount": 5000,
+      "currency": "INR",
+      "in_words": "Rupees Five thousand only"
+    },
+    "security_deposit": {
+      "amount": 10000,
+      "currency": "INR",
+      "in_words": "Rupees Ten thousand only",
+      "interest_free": true
+    },
+    "other_charges": [
+      {
+        "type": "Painting and Cleaning Charges",
+        "amount_note": "around 5000",
+        "currency": "INR",
+        "responsibility": "Lessee",
+        "payment_condition": "At the time of vacating"
+      }
+    ]
+  },
+  "clauses": {
+    "notice_period_months": 1,
+    "rent_escalation_note": "Rent shall be enhanced by some percentage with mutual consent after 24 months."
+  },
+  "jurisdiction": "Bangalore"
+}

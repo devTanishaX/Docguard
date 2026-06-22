@@ -1,0 +1,66 @@
+{
+  "document_info": {
+    "document_id": "RG-KA-2025-009",
+    "execution_date": "2025-09-22",
+    "execution_place": "Bengaluru, Karnataka",
+    "document_type": "Long-Term Residential Rental Agreement"
+  },
+  "parties": [
+    {
+      "name": "Mr. Prakash Desai",
+      "role": "Landlord",
+      "address": "#101, Prestige Ferns, Koramangala, Bengaluru - 560095, Karnataka"
+    },
+    {
+      "name": "Mrs. Sunita & Mr. Vikram Rao",
+      "role": "Tenant",
+      "address": "#88, HSR Layout, Sector 2, Bengaluru - 560102, Karnataka"
+    }
+  ],
+  "premises": {
+    "address": "Apartment No. 1502, Tower 4, Sobha Forest View, Kanakapura Road, Bengaluru - 560062",
+    "type": "Semi-Furnished Residential Apartment"
+  },
+  "term": {
+    "duration_months": 22,
+    "start_date": "2025-10-01"
+  },
+  "financials": {
+    "initial_rent": {
+      "amount": 65000,
+      "currency": "INR",
+      "in_words": "Rupees Sixty-Five Thousand Only"
+    },
+    "escalated_rent": {
+      "amount": 71500,
+      "currency": "INR"
+    },
+    "rent_escalation": {
+      "percentage": 10,
+      "after_months": 11
+    },
+    "security_deposit": {
+      "amount": 400000,
+      "currency": "INR",
+      "in_words": "Rupees Four Lakhs Only"
+    }
+  },
+  "inventory": [
+    "One (1) 3-seater sofa",
+    "one (1) center table",
+    "Three (3) queen-size beds with mattresses",
+    "three (3) wardrobes",
+    "One (1) refrigerator",
+    "one (1) microwave oven",
+    "modular kitchen cabinets",
+    "Three (3) geysers"
+  ],
+  "clauses": {
+    "lock_in_period_months": 11,
+    "notice_period_months": 3,
+    "pets_allowed": false,
+    "alterations_allowed": false
+  },
+  "jurisdiction": "Bengaluru"
+}
+

@@ -1,0 +1,16 @@
+# Virtual Environment
+env/
+
+# AI Model Weights (Large Files)
+trained_model/
+trained_hf_model/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/
+
+# Environment secrets
+.env
